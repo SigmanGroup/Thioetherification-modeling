@@ -7,7 +7,7 @@ For further details, please refer to our associated manuscript available on [Che
 [ChemRxiv]: https://chemrxiv.org/engage/chemrxiv/article-details/6499d2fd6e1c4c986b615276
 
 ## Contents
-- ```electrophiles```/```nucleophiles``` folder: these folders include .xyz files with optimized structures for electrophiles/nucleophiles employed in the data science part of this project. The optimization was conducted with Gaussian16.
+- ```electrophiles```/```nucleophiles``` folder: these folders include ```.xyz``` files with optimized structures for electrophiles/nucleophiles employed in the data science part of this project. The optimization was conducted with Gaussian16.
 - ```notebook``` folder: This folder includes the following Excel sheets and Jupyter notebooks:
   1) ```raw_dataset.xlsx```: Excel file containing experimental reaction results and computational properties for electrophiles and nucleophiles.
   2) ```dataset.xlsx```: Excel file containing the training/test dataset and validation dataset in a comprehensive form with already preprocessed reaction data.
