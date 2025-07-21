@@ -4,7 +4,7 @@ This is the thioetherification modeling repository, including data related to ou
 
 For further details, please refer to our associated [manuscript].
 
-[manuscript]: [https://pubs.acs.org/doi/10.1021/jacs.4c18304]
+[manuscript]: https://pubs.acs.org/doi/10.1021/jacs.4c18304
 
 ## Contents
 - ```electrophiles```/```nucleophiles``` folder: these folders include ```.xyz``` files with optimized structures for electrophiles/nucleophiles employed in the data science part of this project. The optimization was conducted with Gaussian16.
