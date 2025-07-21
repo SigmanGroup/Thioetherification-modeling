@@ -2,9 +2,9 @@
 
 This is the thioetherification modeling repository, including data related to our project. This repository contains Cartesian coordinates of optimized structures for both electrophiles and nucleophiles. Additionally, you'll find an Excel file that consolidates both experimental and computational data, along with Jupyter notebooks used for data preprocessing and decision tree modeling throughout the project.
 
-For further details, please refer to our associated manuscript available on [ChemRxiv].
+For further details, please refer to our [associated manuscript].
 
-[ChemRxiv]: https://chemrxiv.org/engage/chemrxiv/article-details/6499d2fd6e1c4c986b615276
+[associated manuscript]: [https://pubs.acs.org/doi/10.1021/jacs.4c18304]
 
 ## Contents
 - ```electrophiles```/```nucleophiles``` folder: these folders include ```.xyz``` files with optimized structures for electrophiles/nucleophiles employed in the data science part of this project. The optimization was conducted with Gaussian16.
